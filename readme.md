@@ -1,1 +1,1 @@
-GeoJson Islands it is contain someone json files with coordinates in the maps
+GeoJson Islands it is contain some json files with coordinates in the maps
